@@ -8,6 +8,7 @@ Lab: Ubuntu 26.04.1 LTS in VirtualBox 7.2 on Windows · i7-13th gen HX · 24 GB 
 Build the fundamentals I'll actually use at work — Linux, networking,
 programming, systems, security — and document the journey in public.
 
+
 ## Progress
 | Phase | Topic | Sessions | Status |
 |---|---|---|---|
@@ -19,5 +20,6 @@ programming, systems, security — and document the journey in public.
 - `notes/` — one file per session: 5 facts, what broke, next
 - `screenshots/` — evidence for write-ups
 - `scripts/` — small tools as I build them
+
 
 
