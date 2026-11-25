@@ -1,23 +1,27 @@
-#Session 2 - Linkedin Profile Setup
-#Date: 23-11-2026 || Time ~1h
-##5 Facts:
-1- Linekdin is an app representing a work-oriented community of people aspiring to connect and sharing their repsective journeys.
+# Session 4 — How computers work, part 1 (episodes 1-6)
+
+Date: 23/24/25-11-2026 · Time: ~2h30m
+
+## 5 facts:
 
 
-2- An essential app to understand and use in order to get hired as it has a profile in which you can share your skills, education, projects for hiring teams in multiple companies.
+    1- Computers are machines that undersand and mainly work with a mixture of 0s and 1s.
 
 
-3- Setting up a profile is fairly easy.
+    2- A computer was a term used to represent a job description not a machine.
 
 
-4- It is also easy to find people you know to connect and follow on the app which gives you the confidience to use the app and connect more often.
+    3- Computers started as mechanical machines, then electromechanic, then electronic machines 
 
 
-5- From my fairly small experience in using it, the people who follow eachother support eachother a lot by liking and commenting on eachother's posts which shows that at least the general consesus is, people want to succeed and want others to succeed as well, so why not help out even if two people don't share the same career path or are even eyeing the same job?
+    4- A register is a pile of latches storing bits.
 
 
-##Next:
-Session 3: How computers work, part 1: logic gates, binary, the ALU, registers and RAM. 
+    5- Transistors are switches, when they are off no currents passe, when on currents pass.  
 
 
-Custom URL: linkedin.com/in/noureldeen-hossam
+ # Confused by:
+    - How a half-adder computes operations two bits.
+
+## Next
+Session 5: episodes 7-12 — CPU, instructions, programs, CPU designs, early programming, languages.
