@@ -1,6 +1,8 @@
 #Session 2 - Linkedin Profile Setup
 #Date: 23-11-2026 || Time ~1h
 ##5 Facts:
+
+
 1- Linekdin is an app representing a work-oriented community of people aspiring to connect and sharing their repsective journeys.
 
 
